@@ -138,3 +138,10 @@ button:disabled {
         padding: 1rem
     }
 }
+footer {
+    text-align: center;
+    padding: 3px;
+    position: absolute;
+    top:90%;
+    color: white;
+  }
